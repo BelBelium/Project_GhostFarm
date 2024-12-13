@@ -41,3 +41,18 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Ground
+    uniqueID: 4130204105
+    locked: 0
+  - name: Deco
+    uniqueID: 4018009823
+    locked: 0
+  - name: Object
+    uniqueID: 826216063
+    locked: 0
+  - name: NPC
+    uniqueID: 322348325
+    locked: 0
+  - name: Player
+    uniqueID: 3758821851
+    locked: 0
